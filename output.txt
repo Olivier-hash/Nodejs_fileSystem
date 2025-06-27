@@ -1,1 +1,1 @@
-node fileProcessor.js
+JavaScript is awesome and powerful.
